@@ -44,6 +44,7 @@ The project follows a **Star Schema** with clear separation between fact and dim
 - **Calendar Lookup** – Calendar table for time intelligence (dim) 
 - **Territory Lookup** – Regional and country hierarchy (dim) 
 
+![Data Model](docs/data_model.png)
 ---
 
 ## Tools & Technologies
