@@ -30,6 +30,16 @@ The project is based on the *AdventureWorks* dataset — a fictional company spe
 - **Customer Analysis** – Segment customers by value and purchasing behavior  
 - **Time Intelligence** – Monthly and quarterly performance trends  
 
+<div style="display: flex; gap: 20px;">
+  <img src="reports/screenshots/01_executive_overview.jpeg" width="350" alt="Executive Overview">
+  <img src="reports/screenshots/02_regional_sales.jpeg" width="350" alt="Regional Sales">
+</div>
+
+<div style="display: flex; gap: 20px; margin-top: 20px;">
+  <img src="reports/screenshots/03_product_details.jpeg" width="350" alt="Product Details">
+  <img src="reports/screenshots/04_customer_details.jpeg" width="350" alt="Customer Details">
+</div>
+
 ---
 
 ## Data Model
