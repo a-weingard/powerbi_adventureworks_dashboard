@@ -45,6 +45,8 @@ The project follows a **Star Schema** with clear separation between fact and dim
 - **Territory Lookup** – Regional and country hierarchy (dim) 
 
 ![Data Model](docs/data_model.png)
+<img src="docs/data_model.png" alt="Data Model" width="400">
+
 ---
 
 ## Tools & Technologies
